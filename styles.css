@@ -1,0 +1,49 @@
+/* add your CSS here */
+.card {
+    width: 315px;
+    height: 540px;
+    border-width: .5px;
+    border-style: groove;
+    box-shadow: 9px 8px rgb(233, 230, 230);
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 20px;
+}
+
+img {
+    width: 300px;
+    height: 200px; 
+}
+
+h3 {
+    font-size: x-large;
+    text-align: left;
+    padding: 0.5em;
+    margin-bottom: -5px;
+    margin-top: -5px;
+}
+
+.infobox {
+    text-align: left;
+    border-width: .5px;
+    border-style: groove;
+    margin: 8px;
+    font-size: small;  
+}
+
+ul {
+    list-style: none;
+    padding: 0.5em;
+}
+
+.factoid {
+    font-weight: bold;
+}
+
+p {
+    padding:0.5em;
+}
+
+#interesting {
+    font-style: italic;
+}
